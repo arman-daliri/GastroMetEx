@@ -6,15 +6,15 @@ GastroMetEx: An Explainable AI Tool for Non-Invasive Detection of Gastric Cancer
 
 # How to Use:
 ## 1. Install Libs
-```shell
+``` shell
 $ pip install Streamlit
 ```
-## 2. change path:
-```shell
+## 2. Change path:
+``` shell
 $ cd "GastroMetEx path"
 ```
-## 3. Run the app by streamlit
-```shell
+## 3. Run the app with Streamlit
+`` `shell
 $ streamlit run app.py
 ```
 ## 4. Use the local App. 
