@@ -14,7 +14,7 @@ $ pip install Streamlit
 $ cd "GastroMetEx path"
 ```
 ## 3. Run the app with Streamlit
-`` `shell
+``` shell
 $ streamlit run app.py
 ```
 ## 4. Use the local App. 
