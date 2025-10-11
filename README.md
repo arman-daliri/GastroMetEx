@@ -10,12 +10,21 @@ Requirements:
 ```shell
 $ pip install Streamlit
 ```
-## change path:
+## 2. change path:
 ```shell
 cd %USERPROFILE%\Desktop\GTM NEW
 ```
-# Run the app by streamlit
+## 3. Run the app by streamlit
 ```shell
 streamlit run app.py
 ```
-Use the local App. 
+
+## 4. Use the local App. 
+
+# Authors:
+- Arman Daliri <arman.daliri@kiau.ac.ir>
+- Homa Faraji <homa.faraji@gmail.com>
+- Mahdieh Zabihimayvan <zabihimayvan@ccsu.edu>
+- Reza Sadeghi <reza.sadeghi@marist.edu>
+- Elahe Hoseinnia <elahehoseinnia27@gmail.com>
+- Pedram Khalaj <pedram.khalaj@iau.ir>
