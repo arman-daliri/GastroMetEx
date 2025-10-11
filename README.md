@@ -20,9 +20,9 @@ $ streamlit run app.py
 ## 4. Use the local App. 
 
 # Author's
-- [Arman Daliri](arman.daliri@kiau.ac.ir)
-- [Homa Faraji](homa.faraji@gmail.com)
-- [Dr. Mahdieh Zabihimayvan](zabihimayvan@ccsu.edu)
-- [Dr. Reza Sadeghi](reza.sadeghi@marist.edu)
-- [Elahe Hoseinnia](elahehoseinnia27@gmail.com)
-- [Pedram Khalaj](pedram.khalaj@iau.ir)
+- Arman Daliri [Contact](arman.daliri@kiau.ac.ir)
+- Homa Faraji [Contact](homa.faraji@gmail.com)
+- Dr. Mahdieh Zabihimayvan [Contact](zabihimayvan@ccsu.edu)
+- Dr. Reza Sadeghi [Contact](reza.sadeghi@marist.edu)
+- Elahe Hoseinnia [Contact](elahehoseinnia27@gmail.com)
+- Pedram Khalaj [Contact](pedram.khalaj@iau.ir)
