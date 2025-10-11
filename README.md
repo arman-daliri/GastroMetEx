@@ -11,11 +11,11 @@ $ pip install Streamlit
 ```
 ## 2. change path:
 ```shell
-cd %USERPROFILE%\Desktop\GTM NEW
+$ cd "GastroMetEx path"
 ```
 ## 3. Run the app by streamlit
 ```shell
-streamlit run app.py
+$ streamlit run app.py
 ```
 ## 4. Use the local App. 
 
