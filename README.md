@@ -14,7 +14,7 @@ $ pip install Streamlit
 ```shell
 cd %USERPROFILE%\Desktop\GTM NEW
 ```
-# run the app by streamlit
+# Run the app by streamlit
 ```shell
 streamlit run app.py
 ```
