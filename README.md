@@ -1,7 +1,7 @@
 # GastroMetEx
 GastroMetEx: An Explainable AI Tool for Non-Invasive Detection of Gastric Cancer via Plasma Metabolomics
-
-#accepted at:
+## MVP version based on Rf Algorithm. 
+# accepted at:
 [AHFE 2025 Hawaii Edition Conference](https://www.hawaii.ahfe.org/index.html)
 
 # How to Use:
